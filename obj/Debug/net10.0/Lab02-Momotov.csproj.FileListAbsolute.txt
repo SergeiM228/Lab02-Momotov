@@ -12,3 +12,4 @@ C:\Users\Student_06\Documents\Lab02-Momotov\obj\Debug\net10.0\refint\Lab02-Momot
 C:\Users\Student_06\Documents\Lab02-Momotov\obj\Debug\net10.0\Lab02-Momotov.pdb
 C:\Users\Student_06\Documents\Lab02-Momotov\obj\Debug\net10.0\Lab02-Momotov.genruntimeconfig.cache
 C:\Users\Student_06\Documents\Lab02-Momotov\obj\Debug\net10.0\ref\Lab02-Momotov.dll
+C:\Users\Student_06\Documents\Lab02-Momotov\obj\Debug\net10.0\Lab02-Momotov.sourcelink.json
