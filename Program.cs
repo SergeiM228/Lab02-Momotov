@@ -34,3 +34,10 @@
 
 // Console.WriteLine($"double:  0.1 + 0.2 = {priceDouble}");
 // Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");  
+Console.WriteLine();
+Console.WriteLine("var");
+
+var studentAge = 20;
+var gpa = 4.75
+var fullName = "Момотов С.А.";
+Console.Write
